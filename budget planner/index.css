@@ -1,0 +1,14 @@
+div {
+    background-color: lightgrey;
+    width: 300px;
+    border: 15px solid pink;
+    padding: 50px;
+    margin: 20px;
+    text-align: center;
+  }
+
+.center {
+    margin: auto;
+    width: 60%;
+    border: 3px solid #73AD21;
+    padding: 10px;
